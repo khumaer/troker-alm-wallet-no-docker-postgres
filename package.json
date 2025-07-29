@@ -32,8 +32,8 @@
     "@types/node": "^18.12.23"
   },
 	 "scripts": {
-    "build": "npm run postbuild",
-    "start": "npm run  start --prod",
+    "build": "npm run build",
+    "start": "npm run start",
     "postbuild": "npm run copy:files"
   }
 }
