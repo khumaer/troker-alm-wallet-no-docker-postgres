@@ -30,5 +30,10 @@
   },
   "devDependencies": {
     "@types/node": "^18.12.23"
+  },
+	 "scripts": {
+    "build": "npm run postbuild",
+    "start": "npm run  start --prod",
+    "postbuild": "npm run copy:files"
   }
 }
