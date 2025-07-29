@@ -41,7 +41,7 @@
   },
   "eslintConfig": {
     "extends": ["next"]
-  }
+  },
   "installNext": "npm install next@latest --save-dev"
 
 }
