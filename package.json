@@ -30,9 +30,5 @@
   },
   "devDependencies": {
     "@types/node": "^18.12.23"
-  },
-  "scripts": {
-    "build": "npm run build",
-    "start": "npm run start --prod"
   }
 }
