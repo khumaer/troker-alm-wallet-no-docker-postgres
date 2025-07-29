@@ -33,6 +33,6 @@
   },
   "scripts": {
     "build": "npm run build",
-    "start": "npm run start --prod",
+    "start": "npm run start --prod"
   }
 }
