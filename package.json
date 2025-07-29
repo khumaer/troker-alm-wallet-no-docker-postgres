@@ -32,15 +32,15 @@
     "vaul": "^0.9.9",
     "zod": "^3.23.8"
   },
+
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "build": "npm run next build --prod",
+    "start": "npm run next start",
+    "postbuild": "npm run copy:files"
   },
   "eslintConfig": {
-    "extends": [
-      "next"
-    ]
+    "extends": ["next"]
   }
+
+
 }
