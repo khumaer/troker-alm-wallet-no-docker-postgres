@@ -33,9 +33,13 @@
     "zod": "^3.23.8"
   },
 
+	{
+  "installNext": "npm install next@latest --save-dev"
+},
+
   "scripts": {
     "build": "npm run next build --prod",
-    "start": "npm run next start",
+    "start": "npm run installNext && npm run next start",
     "postbuild": "npm run copy:files"
   },
   "eslintConfig": {
