@@ -53,6 +53,6 @@
     "typescript": "5.2.2",
     "vaul": "^0.9.9",
     "zod": "^3.23.8",
-    **<span class="highlight"> "pg": "^8.7.1"</span>**
+    "pg": "^8.7.1"
   }
 }
