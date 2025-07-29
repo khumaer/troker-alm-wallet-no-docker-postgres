@@ -23,4 +23,4 @@ Troker Wallet welcomes contributions! Please refer to the contribution guideline
 
 ### License
 
-Copyright © 2023 Your Name or Organization. Licensed under the Apache License, Version 2.0.
+Copyright © 2023 All Lives Meta. Licensed under the Apache License, Version 2.0.
